@@ -2,9 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+### Steps to run
+hit 'npm install' under main folder.
+Make an account on TMDB for developers, get api key and put it in .env file, to fetch movies.
+Go to Firebase console, make netflix app there, get credentials, and paste it in firebase.js file.
+hit 'npm start', and UI will show up.
+
+
+# UI Screenshots
+## Home Page
+![Netflix](https://github.com/pragatitanwar1991/NetflixCloneUI/assets/143954738/b62c21ef-d6f0-42e0-8876-29618680a902)
+
+## Playing Trailer from Home Page
+![Netflix2](https://github.com/pragatitanwar1991/NetflixCloneUI/assets/143954738/509279f3-ab1f-4b24-826c-8a9e70aac7a0)
+
+## Player Page
+![Netflix3](https://github.com/pragatitanwar1991/NetflixCloneUI/assets/143954738/390bf038-55f6-4c3f-bba7-f8d53a90ecbd)
 
 ### `npm start`
 
@@ -68,3 +82,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### ToDos
+Soon will upload MERN stack Netflix Clone..
+
+
+### Give a star to repo
