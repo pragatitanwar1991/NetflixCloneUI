@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### Steps to run
-hit 'npm install' under main folder.
-Make an account on TMDB for developers, get api key and put it in .env file, to fetch movies.
-Go to Firebase console, make netflix app there, get credentials, and paste it in firebase.js file.
+hit 'npm install' under main folder.\
+Make an account on TMDB for developers, get api key and put it in .env file, to fetch movies.\
+Go to Firebase console, make netflix app there, get credentials, and paste it in firebase.js file.\
 hit 'npm start', and UI will show up.
 
 
